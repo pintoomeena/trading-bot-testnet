@@ -1,0 +1,8 @@
+2026-02-25 22:24:49,120 - INFO - Placing order: BTCUSDT BUY MARKET qty=0.01 price=None
+2026-02-25 22:24:51,021 - INFO - Order response: {}
+2026-02-25 22:30:13,837 - INFO - Placing order: BTCUSDT BUY MARKET qty=0.01 price=None
+2026-02-25 22:30:15,308 - INFO - Order response: {}
+2026-02-25 22:35:41,279 - INFO - Placing order: BTCUSDT BUY MARKET qty=0.01 price=None
+2026-02-25 22:35:42,532 - INFO - Order response: {'orderId': 12547054324, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ98a1a4f296eaaa12ca4b17', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772039142607}
+2026-02-25 22:37:34,444 - INFO - Placing order: BTCUSDT SELL LIMIT qty=0.01 price=80000.0
+2026-02-25 22:37:35,703 - INFO - Order response: {'orderId': 12547068235, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ8e253656de7483935ff5d7', 'price': '80000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1772039255776}
