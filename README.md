@@ -23,6 +23,8 @@ and a modular Python codebase.
 ---
 
 ## Project Structure
+## Project Structure
+```
 trading_bot/
 ├── bot/
 │   ├── __init__.py
@@ -35,3 +37,4 @@ trading_bot/
 ├── README.md
 └── logs/
     └── trading_bot.log
+```
